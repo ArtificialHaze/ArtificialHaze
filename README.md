@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArtificialHaze
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning REACT
+- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on ANYTHING RELATED TO CODING
 - 📫 How to reach me MAIL ME AND SAY 'HI!'
 
